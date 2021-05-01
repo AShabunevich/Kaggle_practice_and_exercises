@@ -1,0 +1,15 @@
+dog : 54
+cat : 7
+goose : 21
+humster : 44
+mouse : 97
+ferret : 33
+pig : 12
+cow : 53
+sheep : 234
+bull : 35
+chiken : 1
+otter : 66
+snake : 90
+spider : 57
+frog : 76
